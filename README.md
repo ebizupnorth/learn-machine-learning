@@ -22,7 +22,7 @@ There's a lot of application for machine learning. We may not have noticed it bu
 * Predicting the weather
 * Photo-tagging in your social network page
 * Reading the address in a mail envelope for automatic routing
-* Safety detectors in your car like lane departure, forward collision, pedestrian detection, etc..
+* Safety features in your car like lane departure, forward collision, pedestrian detection, etc..
 * Self-driving cars
 * And the list goes on...
 
